@@ -1,0 +1,8 @@
+echo "# abo3qb" >> README.md 
+git init 
+git add README.md 
+git Commit -m "الالتزام الأول" 
+git Branch -M الرئيسي 
+git Remote add Origin https://github.com/abo3qb/abo3qb.git
+ git Push - ش الأصل الرئيسي
+
